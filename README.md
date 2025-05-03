@@ -53,10 +53,8 @@ Note: These are just sample outputs for learning and not real medical advice.
 
 How to Run It
 
-git clone https://github.com/yourusername/parkinsons-detector.git
-cd parkinsons-detector
+git clone https://github.com/SOORIYAVEENA08/parkinson_dedection/tree/main
 pip install -r requirements.txt
-python app.py
 
 🌱 What I Learned
 How to build a CNN model for image classification
