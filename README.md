@@ -1,4 +1,4 @@
-# parkinson_dedection
+# parkinsons-mri-detector
 🧠 Parkinson's Disease Detection Using MRI Scans
 
 This is a small project I worked on to understand how deep learning can help in detecting Parkinson’s disease from MRI brain scans. I wanted to make it simple, understandable, and something that could be used through a basic web browser.
