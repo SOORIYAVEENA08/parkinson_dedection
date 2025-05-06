@@ -51,11 +51,6 @@ For Moderate, it suggests Levodopa or Dopamine agonists
 For Advanced, it recommends stronger drugs and consult with a neurologist
 Note: These are just sample outputs for learning and not real medical advice.
 
-How to Run It
-
-git clone https://github.com/SOORIYAVEENA08/parkinson_dedection/tree/main
-
-pip install -r requirements.txt
 
 🌱 What I Learned
 How to build a CNN model for image classification
